@@ -1,4 +1,4 @@
-# MIPS 5-Stage Pipelined Processor (Verilog)
+# MIPS 5-Stage Pipelined Processor
 
 This repository contains a modular implementation of a **32-bit MIPS 5-stage pipelined processor** in **Verilog HDL**.  
 The design follows the standard pipeline structure used in computer architecture: **Instruction Fetch (IF)**, **Instruction Decode (ID)**, **Execute (EX)**, **Memory Access (MEM)**, and **Write Back (WB)**.
@@ -154,10 +154,7 @@ run 500ns
 
 ## 9. Block Diagram
 
-```markdown
-(![Block Diagram](https://github.com/bhakti2845/-MIPS-5-Stage-Pipelined-CPU/blob/main/doc/block%20diagram.png)
-)
-```
+![Block Diagram](https://github.com/bhakti2845/-MIPS-5-Stage-Pipelined-CPU/blob/main/doc/block%20diagram.png)
 
 ---
 
